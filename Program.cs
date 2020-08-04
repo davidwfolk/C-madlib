@@ -6,7 +6,20 @@ namespace madlib
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string color, pluralNoun, petName, familyMember;
+
+            Console.Write("Enter a color: ");
+            color = Console.ReadLine();
+
+            Console.Write("Enter a plural noun: ");
+            pluralNoun = Console.ReadLine();
+
+            Console.Write("Enter a pet name: ");
+            petName = Console.ReadLine();
+
+            Console.Write("Enter a family member's name: ");
+            familyMember = Console.ReadLine();
+
         }
     }
 }
