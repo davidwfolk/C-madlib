@@ -1,0 +1,12 @@
+/Users/davidwfolk/source/codeworks/30days/madlib/bin/Debug/netcoreapp3.1/madlib.deps.json
+/Users/davidwfolk/source/codeworks/30days/madlib/bin/Debug/netcoreapp3.1/madlib.runtimeconfig.json
+/Users/davidwfolk/source/codeworks/30days/madlib/bin/Debug/netcoreapp3.1/madlib.runtimeconfig.dev.json
+/Users/davidwfolk/source/codeworks/30days/madlib/bin/Debug/netcoreapp3.1/madlib.dll
+/Users/davidwfolk/source/codeworks/30days/madlib/bin/Debug/netcoreapp3.1/madlib.pdb
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.csprojAssemblyReference.cache
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.AssemblyInfoInputs.cache
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.AssemblyInfo.cs
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.csproj.CoreCompileInputs.cache
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.dll
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.pdb
+/Users/davidwfolk/source/codeworks/30days/madlib/obj/Debug/netcoreapp3.1/madlib.genruntimeconfig.cache
